@@ -1,4 +1,4 @@
-# Uniswap Labs Interface
+# AniShardeum Interface
 
 [![Unit Tests](https://github.com/Uniswap/interface/actions/workflows/unit-tests.yaml/badge.svg)](https://github.com/Uniswap/interface/actions/workflows/unit-tests.yaml)
 [![Integration Tests](https://github.com/Uniswap/interface/actions/workflows/integration-tests.yaml/badge.svg)](https://github.com/Uniswap/interface/actions/workflows/integration-tests.yaml)
@@ -6,25 +6,23 @@
 [![Release](https://github.com/Uniswap/interface/actions/workflows/release.yaml/badge.svg)](https://github.com/Uniswap/interface/actions/workflows/release.yaml)
 [![Crowdin](https://badges.crowdin.net/uniswap-interface/localized.svg)](https://crowdin.com/project/uniswap-interface)
 
-An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
+An open source interface for AniShardeum -- a protocol for decentralized exchange of Shardeum tokens by 0xKoharu.
 
-- Website: [uniswap.org](https://uniswap.org/)
-- Interface: [app.uniswap.org](https://app.uniswap.org)
-- Docs: [uniswap.org/docs/](https://docs.uniswap.org/)
-- Twitter: [@Uniswap](https://twitter.com/Uniswap)
-- Reddit: [/r/Uniswap](https://www.reddit.com/r/Uniswap/)
-- Email: [contact@uniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/FCfyBSbCU5)
-- Whitepapers:
-  - [V1](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
-  - [V2](https://uniswap.org/whitepaper.pdf)
-  - [V3](https://uniswap.org/whitepaper-v3.pdf)
+- Website: [anishardeum.org](https://anishardeum.org/)
+- Interface: [app.anishardeum.org](https://app.uniswap.org)
+- Docs: [anishardeum.org/docs/](https://docs.anishardeum.org/)
+- Twitter: [@AniShardeum](https://twitter.com/Anishardeum)
+- Reddit: [/r/Anishardeum](https://www.reddit.com/r/Anishardeum/)
+- Email: [contact@anishardeum.org](mailto:contact@anishardeum.org)
+- Discord: [AniShardeum](Coming Soon)
+- Whitepapers: 
+  - [V1](Coming soon)
 
-## Accessing the Uniswap Interface
+## Accessing the AniShardeum Interface
 
-To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
-or visit [app.uniswap.org](https://app.uniswap.org).
+To access the AniShardeum Interface, use an IPFS gateway link from the
+[latest release](Coming Soon),
+or visit [app.anishardeum.org](https://app.anishardeum.org).
 
 ## Unsupported tokens
 
@@ -36,16 +34,16 @@ You can block an entire list of tokens by passing in a tokenlist like [here](./s
 
 For steps on local deployment, development, and code contribution, please see [CONTRIBUTING](./CONTRIBUTING.md).
 
-## Accessing Uniswap V2
+## Accessing AniShardeum V1
 
-The Uniswap Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Uniswap protocol V2.
+The AniShardeum Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for AniShardeum protocol V1.
 
-- Swap on Uniswap V2: https://app.uniswap.org/#/swap?use=v2
-- View V2 liquidity: https://app.uniswap.org/#/pool/v2
-- Add V2 liquidity: https://app.uniswap.org/#/add/v2
-- Migrate V2 liquidity to V3: https://app.uniswap.org/#/migrate/v2
+- Swap on Uniswap V2: https://app.anishardeum.org/#/swap?use=v1
+- View V2 liquidity: https://app.anishardeum.org/#/pool/v1
+- Add V2 liquidity: https://app.anishardeum.org/#/add/v1
+- Migrate V2 liquidity to V3: https://app.anishardeum.org/#/migrate/v1
 
 ## Accessing Uniswap V1
 
 The Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways
-linked from the [v1.0.0 release](https://github.com/Uniswap/uniswap-interface/releases/tag/v1.0.0).
+linked from the [v1.0.0 release](Coming Soon).

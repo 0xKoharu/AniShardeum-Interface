@@ -42,8 +42,3 @@ The AniShardeum Interface supports swapping, adding liquidity, removing liquidit
 - View V2 liquidity: https://app.anishardeum.org/#/pool/v1
 - Add V2 liquidity: https://app.anishardeum.org/#/add/v1
 - Migrate V2 liquidity to V3: https://app.anishardeum.org/#/migrate/v1
-
-## Accessing Uniswap V1
-
-The Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways
-linked from the [v1.0.0 release](Coming Soon).
